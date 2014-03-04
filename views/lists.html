@@ -1,0 +1,31 @@
+
+<ul>
+	<li ng-repeat="list in lists">
+	<a href='' data-ng-click='showList(list.name)'>{{ list.name }}</a>
+	</li>
+
+</ul>
+
+<div data-role="page" id="page1">
+    <div data-theme="a" data-role="header">
+        <h3>
+shopping lists
+        </h3>
+    </div>
+    <div data-role="content">
+        <ul data-role="listview" data-divider-theme="b" data-inset="true">
+            <li data-role="list-divider" role="heading">
+                divider
+            </li>
+	    
+            <li data-ng-repeat="list in lists" data-theme="c">
+				<a href='' data-ng-click='showlist(list.name)' data-transition="slide">{{ list.name }}</a>
+                <a href="<?php echo site_url(array('wishlists/show', $row['id'], url_title($row['title']))); ?>" data-transition="slide">
+                    <?php echo $row['title'];?>
+                </a>
+            </li>	    
+
+        </ul>
+    </div>
+</div>
+

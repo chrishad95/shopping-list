@@ -1,0 +1,258 @@
+[02-Mar-2014 10:43:15] Connected to the database.
+[02-Mar-2014 10:43:15] items.php request type: PUT
+[02-Mar-2014 10:43:15] requestData->data: {"list_id":"1","name":"Cheese"}
+[02-Mar-2014 10:43:15] list_id: "1"
+[02-Mar-2014 10:43:15] Got a GET request for items
+[02-Mar-2014 10:46:01] Connected to the database.
+[02-Mar-2014 10:46:01] items.php request type: PUT
+[02-Mar-2014 10:46:01] requestData->data: {"list_id":"1","name":"Cheese"}
+[02-Mar-2014 10:46:01] list_id: "1"
+[02-Mar-2014 10:46:01] Got a post for items
+[02-Mar-2014 10:46:01] PHP Notice:  Undefined variable: items in /home2/taylorbe/public_html/shopping/model/items.php on line 40
+[02-Mar-2014 10:46:21] Connected to the database.
+[02-Mar-2014 10:46:21] items.php request type: GET
+[02-Mar-2014 10:46:21] PHP Notice:  Trying to get property of non-object in /home2/taylorbe/public_html/shopping/model/items.php on line 16
+[02-Mar-2014 10:46:21] requestData->data: null
+[02-Mar-2014 10:46:21] list_id: null
+[02-Mar-2014 10:46:21] Got a GET request for items
+[02-Mar-2014 10:46:27] Connected to the database.
+[02-Mar-2014 10:46:27] items.php request type: GET
+[02-Mar-2014 10:46:27] PHP Notice:  Trying to get property of non-object in /home2/taylorbe/public_html/shopping/model/items.php on line 16
+[02-Mar-2014 10:46:27] requestData->data: null
+[02-Mar-2014 10:46:27] list_id: null
+[02-Mar-2014 10:46:27] Got a GET request for items
+[02-Mar-2014 10:46:32] Connected to the database.
+[02-Mar-2014 10:46:32] items.php request type: GET
+[02-Mar-2014 10:46:32] PHP Notice:  Trying to get property of non-object in /home2/taylorbe/public_html/shopping/model/items.php on line 16
+[02-Mar-2014 10:46:32] requestData->data: null
+[02-Mar-2014 10:46:32] list_id: null
+[02-Mar-2014 10:46:32] Got a GET request for items
+[02-Mar-2014 10:46:49] Connected to the database.
+[02-Mar-2014 10:46:49] items.php request type: GET
+[02-Mar-2014 10:46:49] PHP Notice:  Trying to get property of non-object in /home2/taylorbe/public_html/shopping/model/items.php on line 16
+[02-Mar-2014 10:46:49] requestData->data: null
+[02-Mar-2014 10:46:49] list_id: null
+[02-Mar-2014 10:46:49] Got a GET request for items
+[02-Mar-2014 10:49:08] Got a GET request for items
+[02-Mar-2014 10:49:17] Got a GET request for items
+[02-Mar-2014 10:49:29] Got a post for items
+[02-Mar-2014 10:49:29] requestData->data: {"list_id":"1","name":"Coffee"}
+[02-Mar-2014 10:49:29] PHP Notice:  Undefined variable: items in /home2/taylorbe/public_html/shopping/model/items.php on line 33
+[02-Mar-2014 10:49:36] Got a GET request for items
+[02-Mar-2014 10:49:50] Got a GET request for items
+[02-Mar-2014 11:04:34] Got a GET request for items
+[02-Mar-2014 11:04:36] Got a GET request for items
+[02-Mar-2014 11:04:49] Got a GET request for items
+[02-Mar-2014 11:06:25] Got a GET request for items
+[02-Mar-2014 11:06:27] Got a GET request for items
+[02-Mar-2014 11:07:13] Got a GET request for items
+[02-Mar-2014 11:07:15] Got a GET request for items
+[02-Mar-2014 11:09:01] Got a GET request for items
+[02-Mar-2014 11:09:51] Got a GET request for items
+[02-Mar-2014 11:09:55] Got a GET request for items
+[02-Mar-2014 11:10:06] Got a GET request for items
+[02-Mar-2014 11:11:56] Got a GET request for items
+[02-Mar-2014 11:12:00] Got a GET request for items
+[02-Mar-2014 11:14:21] Got a post for items
+[02-Mar-2014 11:14:21] requestData->data: {"list_id":"1","name":"Cream Of Wheat"}
+[02-Mar-2014 11:14:22] PHP Notice:  Undefined variable: items in /home2/taylorbe/public_html/shopping/model/items.php on line 33
+[02-Mar-2014 11:14:26] Got a GET request for items
+[02-Mar-2014 11:15:41] Got a GET request for items
+[02-Mar-2014 11:15:56] Got a GET request for items
+[02-Mar-2014 11:17:19] Got a GET request for items
+[02-Mar-2014 11:23:43] Got a GET request for items
+[02-Mar-2014 11:23:47] Got a GET request for items
+[02-Mar-2014 11:24:32] Got a GET request for items
+[02-Mar-2014 11:24:35] Got a GET request for items
+[02-Mar-2014 11:25:15] Got a GET request for items
+[02-Mar-2014 11:25:17] Got a GET request for items
+[02-Mar-2014 11:25:40] Got a GET request for items
+[02-Mar-2014 11:25:42] Got a GET request for items
+[02-Mar-2014 11:27:59] Got a GET request for items
+[02-Mar-2014 11:28:00] Got a GET request for items
+[02-Mar-2014 11:33:17] Got a GET request for items
+[02-Mar-2014 11:33:20] Got a GET request for items
+[02-Mar-2014 11:33:22] Got a GET request for items
+[02-Mar-2014 11:38:43] Got a GET request for items
+[02-Mar-2014 11:38:45] Got a GET request for items
+[02-Mar-2014 11:39:30] Got a GET request for items
+[02-Mar-2014 11:39:34] Got a GET request for items
+[02-Mar-2014 11:42:32] Got a GET request for items
+[02-Mar-2014 11:42:34] Got a GET request for items
+[02-Mar-2014 11:44:05] Got a GET request for items
+[02-Mar-2014 11:44:07] Got a GET request for items
+[02-Mar-2014 11:46:39] Got a GET request for items
+[02-Mar-2014 11:46:41] Got a GET request for items
+[02-Mar-2014 11:49:21] Got a GET request for items
+[02-Mar-2014 11:49:23] Got a GET request for items
+[02-Mar-2014 11:50:52] Got a GET request for items
+[02-Mar-2014 11:50:54] Got a GET request for items
+[02-Mar-2014 11:51:09] Got a post for items
+[02-Mar-2014 11:51:09] requestData->data: {"list_id":"1","name":"Butter"}
+[02-Mar-2014 11:51:09] PHP Notice:  Undefined variable: items in /home2/taylorbe/public_html/shopping/model/items.php on line 33
+[02-Mar-2014 11:51:14] Got a GET request for items
+[02-Mar-2014 11:51:20] Got a GET request for items
+[02-Mar-2014 11:51:23] Got a GET request for items
+[02-Mar-2014 11:53:06] Got a post for items
+[02-Mar-2014 11:53:06] requestData->data: {"list_id":"1","name":"Chunky"}
+[02-Mar-2014 11:53:26] Got a GET request for items
+[02-Mar-2014 11:53:39] Got a GET request for items
+[02-Mar-2014 11:53:44] Got a GET request for items
+[02-Mar-2014 11:53:46] Got a GET request for items
+[02-Mar-2014 11:54:02] Got a GET request for items
+[02-Mar-2014 11:54:12] Got a GET request for items
+[02-Mar-2014 11:54:22] Got a post for items
+[02-Mar-2014 11:54:22] requestData->data: {"list_id":"2","name":"Tape"}
+[02-Mar-2014 11:55:07] Got a GET request for items
+[02-Mar-2014 11:55:09] Got a GET request for items
+[02-Mar-2014 11:55:17] Got a GET request for items
+[02-Mar-2014 11:55:52] Got a post for items
+[02-Mar-2014 11:55:52] requestData->data: {"list_id":"2","name":"Toilet Paper"}
+[02-Mar-2014 11:56:02] Got a GET request for items
+[02-Mar-2014 11:56:07] Got a GET request for items
+[02-Mar-2014 11:56:29] Got a GET request for items
+[02-Mar-2014 11:58:37] Got a GET request for items
+[02-Mar-2014 11:58:39] Got a GET request for items
+[02-Mar-2014 11:58:43] Got a GET request for items
+[02-Mar-2014 11:58:50] Got a post for items
+[02-Mar-2014 11:58:50] requestData->data: {"list_id":"2","name":"Crayons"}
+[02-Mar-2014 12:04:49] Got a GET request for items
+[02-Mar-2014 12:09:25] Got a GET request for items
+[02-Mar-2014 12:21:06] Got a GET request for items
+[02-Mar-2014 12:21:15] Got a GET request for items
+[02-Mar-2014 12:21:38] Got a GET request for items
+[02-Mar-2014 12:22:15] Got a GET request for items
+[02-Mar-2014 12:22:17] Got a GET request for items
+[02-Mar-2014 12:29:23] Got a GET request for items
+[02-Mar-2014 12:29:29] Got a GET request for items
+[02-Mar-2014 12:30:09] Got a GET request for items
+[02-Mar-2014 12:30:13] Got a GET request for items
+[02-Mar-2014 12:30:20] Got a GET request for items
+[02-Mar-2014 12:31:19] Got a GET request for items
+[02-Mar-2014 12:31:24] Got a GET request for items
+[02-Mar-2014 12:33:45] Got a GET request for items
+[02-Mar-2014 12:35:08] Got a GET request for items
+[02-Mar-2014 12:35:11] Got a GET request for items
+[02-Mar-2014 12:35:14] Got a GET request for items
+[02-Mar-2014 12:35:28] Got a GET request for items
+[02-Mar-2014 12:35:44] Got a GET request for items
+[02-Mar-2014 12:35:51] Got a GET request for items
+[02-Mar-2014 12:36:13] Got a GET request for items
+[02-Mar-2014 12:36:18] Got a GET request for items
+[02-Mar-2014 12:37:19] Got a GET request for items
+[02-Mar-2014 12:37:29] Got a post for items
+[02-Mar-2014 12:37:29] requestData->data: {"list_id":"1","name":"Beer"}
+[02-Mar-2014 12:38:54] Got a GET request for items
+[02-Mar-2014 12:42:00] Got a GET request for items
+[02-Mar-2014 12:42:03] Got a GET request for items
+[02-Mar-2014 12:49:11] Got a GET request for items
+[02-Mar-2014 12:49:23] Got a GET request for items
+[02-Mar-2014 12:49:47] Got a GET request for items
+[02-Mar-2014 12:49:53] Got a GET request for items
+[02-Mar-2014 13:09:57] Got a GET request for items
+[02-Mar-2014 13:11:07] Got a GET request for items
+[02-Mar-2014 13:11:09] Got a GET request for items
+[02-Mar-2014 13:11:28] Got a post for items
+[02-Mar-2014 13:11:28] requestData->data: {"list_id":"1","name":"Spaghetti Sauce"}
+[02-Mar-2014 13:14:15] Got a GET request for items
+[02-Mar-2014 13:14:22] Got a GET request for items
+[02-Mar-2014 13:14:28] Got a GET request for items
+[02-Mar-2014 13:54:47] Got a GET request for items
+[02-Mar-2014 13:54:52] Got a GET request for items
+[02-Mar-2014 13:56:04] Got a GET request for items
+[02-Mar-2014 13:56:22] Got a GET request for items
+[02-Mar-2014 13:56:22] Got a GET request for items
+[02-Mar-2014 13:56:23] Got a GET request for items
+[02-Mar-2014 13:56:23] Got a GET request for items
+[02-Mar-2014 13:56:23] Got a GET request for items
+[02-Mar-2014 13:56:24] Got a GET request for items
+[02-Mar-2014 13:56:24] Got a GET request for items
+[02-Mar-2014 13:56:24] Got a GET request for items
+[02-Mar-2014 13:56:24] Got a GET request for items
+[02-Mar-2014 13:56:25] Got a GET request for items
+[02-Mar-2014 13:56:25] Got a GET request for items
+[02-Mar-2014 13:56:25] Got a GET request for items
+[02-Mar-2014 13:56:26] Got a GET request for items
+[02-Mar-2014 13:56:26] Got a GET request for items
+[02-Mar-2014 13:56:26] Got a GET request for items
+[02-Mar-2014 13:56:26] Got a GET request for items
+[02-Mar-2014 13:56:26] Got a GET request for items
+[02-Mar-2014 13:56:27] Got a GET request for items
+[02-Mar-2014 13:56:27] Got a GET request for items
+[02-Mar-2014 13:56:27] Got a GET request for items
+[02-Mar-2014 13:56:27] Got a GET request for items
+[02-Mar-2014 13:56:28] Got a GET request for items
+[02-Mar-2014 13:56:28] Got a GET request for items
+[02-Mar-2014 13:56:28] Got a GET request for items
+[02-Mar-2014 13:56:28] Got a GET request for items
+[02-Mar-2014 13:56:29] Got a GET request for items
+[02-Mar-2014 13:56:29] Got a GET request for items
+[02-Mar-2014 13:56:29] Got a GET request for items
+[02-Mar-2014 13:56:29] Got a GET request for items
+[02-Mar-2014 13:56:30] Got a GET request for items
+[02-Mar-2014 13:56:30] Got a GET request for items
+[02-Mar-2014 13:56:30] Got a GET request for items
+[02-Mar-2014 13:56:30] Got a GET request for items
+[02-Mar-2014 13:56:31] Got a GET request for items
+[02-Mar-2014 13:56:31] Got a GET request for items
+[02-Mar-2014 13:56:31] Got a GET request for items
+[02-Mar-2014 13:56:32] Got a GET request for items
+[02-Mar-2014 13:56:32] Got a GET request for items
+[02-Mar-2014 13:56:32] Got a GET request for items
+[02-Mar-2014 13:56:32] Got a GET request for items
+[02-Mar-2014 13:56:33] Got a GET request for items
+[02-Mar-2014 13:56:33] Got a GET request for items
+[02-Mar-2014 13:56:34] Got a GET request for items
+[02-Mar-2014 13:56:34] Got a GET request for items
+[02-Mar-2014 13:56:34] Got a GET request for items
+[02-Mar-2014 13:56:34] Got a GET request for items
+[02-Mar-2014 13:56:35] Got a GET request for items
+[02-Mar-2014 13:56:35] Got a GET request for items
+[02-Mar-2014 13:56:35] Got a GET request for items
+[02-Mar-2014 13:56:36] Got a GET request for items
+[02-Mar-2014 13:56:36] Got a GET request for items
+[02-Mar-2014 13:56:36] Got a GET request for items
+[02-Mar-2014 13:56:36] Got a GET request for items
+[02-Mar-2014 13:56:36] Got a GET request for items
+[02-Mar-2014 13:56:37] Got a GET request for items
+[02-Mar-2014 13:56:37] Got a GET request for items
+[02-Mar-2014 13:56:37] Got a GET request for items
+[02-Mar-2014 13:56:37] Got a GET request for items
+[02-Mar-2014 13:56:38] Got a GET request for items
+[02-Mar-2014 13:56:38] Got a GET request for items
+[02-Mar-2014 13:56:38] Got a GET request for items
+[02-Mar-2014 13:56:38] Got a GET request for items
+[02-Mar-2014 13:56:38] Got a GET request for items
+[02-Mar-2014 13:56:39] Got a GET request for items
+[02-Mar-2014 13:56:39] Got a GET request for items
+[02-Mar-2014 13:56:39] Got a GET request for items
+[02-Mar-2014 13:56:39] Got a GET request for items
+[02-Mar-2014 13:56:40] Got a GET request for items
+[02-Mar-2014 13:56:40] Got a GET request for items
+[02-Mar-2014 13:56:40] Got a GET request for items
+[02-Mar-2014 13:56:40] Got a GET request for items
+[02-Mar-2014 13:56:41] Got a GET request for items
+[02-Mar-2014 13:56:41] Got a GET request for items
+[02-Mar-2014 13:56:41] Got a GET request for items
+[02-Mar-2014 13:56:42] Got a GET request for items
+[02-Mar-2014 13:56:42] Got a GET request for items
+[02-Mar-2014 13:56:42] Got a GET request for items
+[02-Mar-2014 13:56:43] Got a GET request for items
+[02-Mar-2014 13:56:43] Got a GET request for items
+[02-Mar-2014 13:56:43] Got a GET request for items
+[02-Mar-2014 13:56:44] Got a GET request for items
+[02-Mar-2014 13:56:44] Got a GET request for items
+[02-Mar-2014 13:56:44] Got a GET request for items
+[02-Mar-2014 13:56:44] Got a GET request for items
+[02-Mar-2014 13:56:45] Got a GET request for items
+[02-Mar-2014 13:57:00] Got a GET request for items
+[02-Mar-2014 13:57:06] Got a GET request for items
+[02-Mar-2014 13:57:09] Got a GET request for items
+[03-Mar-2014 11:52:25] Got a GET request for items
+[03-Mar-2014 11:52:43] Got a GET request for items
+[03-Mar-2014 11:54:19] Got a GET request for items
+[03-Mar-2014 11:54:24] Got a GET request for items
+[03-Mar-2014 11:54:28] Got a GET request for items
+[03-Mar-2014 11:54:46] Got a GET request for items
+[03-Mar-2014 15:56:02] Got a GET request for items
+[03-Mar-2014 15:56:34] Got a GET request for items
